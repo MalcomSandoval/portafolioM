@@ -37,7 +37,7 @@ Este proyecto fue creado con un enfoque funcional y moderno, combinando tecnolog
 
 ## 🌐 Demo
 
-👉 [View live demo](https://github.com/EFEELE/NeonMint) 
+👉 [View live demo](https://github.com/MalcomSandoval/proyecto) 
 
 ## 🎯 Objective
 
