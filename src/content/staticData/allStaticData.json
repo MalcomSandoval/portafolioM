@@ -1,0 +1,40 @@
+{
+  "profileImage": "/images/Malcom.jpg",
+  "profileAlt": "Photo of Malcom Sandoval Curiel Ponce (MSC) for the Portafolio",
+  "profileLink": "/about-me",
+  "profileTitle": "Full Stack Developer",
+  "profileName": "Malcom Sandoval",
+  "github": "https://github.com/MalcomSandoval",
+  "githubText": "Te gusta mi perfil?",
+  "portfolioImage": "/images/portfolio.webp",
+  "email": "malcomsandoval04@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/malcom-sandoval-a6300b2a6/",
+  "instagram": "https://www.instagram.com/malcom__idc/",
+  "youtube": "https://www.youtube.com/@efeeledev",
+  "alias": "MSC",
+  "contactSectionTitle": "Listo para el siguiente nivel?",
+  "contactSectionSubtitle": "Trabajemos juntos.",
+  "contactSectionButtonText": "Contactame",
+  "contactSectionButtonIcon": "paperplane",
+  "techsTitle": "TECHS",
+  "instagramIconName": "instagram",
+  "youtubeIconName": "youtube",
+  "githubIconName": "github",
+  "linkedinIconName": "linkedin",
+  "emailIconName": "envelope",
+  "hobbies": [
+    "Lectura",
+    "Baket",
+    "Caffe",
+    "Musica",
+    "peliculas",
+    "Video Juegos",
+    "comer"
+  ],
+  "pageTitle": "Portafolio | Malcom Sandoval | MSC",
+  "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
+  "OGImage": {
+    "url": "/images/imagedefault.webp",
+    "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Fernando López, a Frontend Developer with 3 years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, TypeScript, Angular, Node.js, CSS, Tailwind, and more."
+  }
+}
