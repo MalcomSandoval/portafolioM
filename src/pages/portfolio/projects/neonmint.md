@@ -2,8 +2,8 @@
 layout:  /src/layouts/ProjectLayout.astro
 title: 'taskflow-app'
 pubDate: 2025-04-05
-description: 'NeonMint is a modern, minimalist template crafted for developers and digital creatives.'
-languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
+description: ''
+languages: ["astro", "tailwind", "cloudflare", "javascript","netlify","typescript","mysql"]
 image:
   url: "/images/projects/image.png"
   alt: "Thumbnail of Astro arches."
