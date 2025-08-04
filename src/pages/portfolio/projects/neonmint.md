@@ -1,34 +1,38 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'NeonMint'
+title: 'taskflow-app'
 pubDate: 2025-04-05
 description: 'NeonMint is a modern, minimalist template crafted for developers and digital creatives.'
 languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "/images/projects/image.png"
   alt: "Thumbnail of Astro arches."
 --- 
 
-**NeonMint** is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
+**TaskFlow-App**  es una aplicación web full stack diseñada para ayudarte a gestionar tareas de manera práctica, organizada y eficiente. Permite a los usuarios registrar sus pendientes, clasificarlos por etiquetas, marcarlos como completados y mantener un flujo de trabajo claro y productivo.
 
-Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on speed, modularity, and a component-centered architecture.
+Este proyecto fue creado con un enfoque funcional y moderno, combinando tecnología, diseño y una estructura escalable que permite añadir funcionalidades colaborativas a futuro.
+
 
 ## 🧩 Features
 
-- Responsive and minimalist design
-- Dark mode aesthetic with mint green accents
-- Clean and reusable UI components
-- Ideal for portfolios, dashboards or tech landing pages
-- Modern typography and clear visual hierarchy
-- Developed with **Astro**
-- Styled with **TailwindCSS**
+- Interfaz responsiva y limpia para una experiencia fluida en cualquier dispositivo
+- Organización de tareas mediante etiquetas y filtros por estado
+- Autenticación de usuarios con JWT para acceso seguro
+- CRUD completo de tareas (crear, leer, actualizar, eliminar)
+- Arquitectura escalable para agregar funciones colaborativas
+- Panel de usuario intuitivo centrado en la productividad
+- Desarrollado con **Astro**
+- Estilizado con **TailwindCSS**
 
 ## 💡 Technologies used
 
 - Astro
+- TypeScript
+- PLpgSQL + PostgreSQL
 - TailwindCSS
-- HTML5
-- JavaScript
+- JavaScript / HTML / CSS
+- JSON Web Tokens (JWT)
 
 
 ## 🌐 Demo
@@ -37,7 +41,9 @@ Developed with **Astro** and styled with **TailwindCSS**, NeonMint focuses on sp
 
 ## 🎯 Objective
 
-The purpose of NeonMint is to combine style and functionality in a clean interface that enhances content without overwhelming the user. It's an exercise in design and development focused on visual detail and user experience.
+El objetivo de TaskFlow-App es proporcionar una herramienta práctica para gestionar tareas diarias de forma simple y estructurada. Busca equilibrar diseño minimalista, velocidad y claridad, enfocándose en una arquitectura de componentes reutilizables y una experiencia de usuario ágil. Es ideal para mostrar habilidades tanto de frontend como de backend con TypeScript y bases de datos relacionales.
 
 
-🚀 *Developed by EFEELE.*
+
+
+🚀 *Malcom Jhosue Sandoval Curiel – Desarrollador Full Stack*
