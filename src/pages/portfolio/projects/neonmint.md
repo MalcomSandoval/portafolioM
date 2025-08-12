@@ -13,6 +13,12 @@ image:
 
 Este proyecto fue creado con un enfoque funcional y moderno, combinando tecnología, diseño y una estructura escalable que permite añadir funcionalidades colaborativas a futuro.
 
+## 🌐 Demo
+
+<a href="gestortask.netlify.app/" target="_blank" rel="noopener noreferrer">
+  👆 Mirar el Demo del proyecto
+</a>
+
 
 ## 🧩 Features
 
@@ -34,10 +40,6 @@ Este proyecto fue creado con un enfoque funcional y moderno, combinando tecnolog
 - JavaScript / HTML / CSS
 - JSON Web Tokens (JWT)
 
-
-## 🌐 Demo
-
-👉 [Mirar el Demo del proyecto](https://github.com/MalcomSandoval/proyecto) 
 
 ## 🎯 Objective
 
