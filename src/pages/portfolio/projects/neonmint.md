@@ -1,51 +1,85 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'taskflow-app'
-pubDate: 2025-04-05
+title: 'Punto Frio Donde Beto'
+pubDate: 2025-09-05
 description: ''
 languages: ["astro", "tailwind", "cloudflare", "javascript","netlify","typescript","mysql"]
 image:
   url: "/images/projects/image.png"
-  alt: "Thumbnail of Astro arches."
+  alt: "Punto Frio"
 --- 
 
-**TaskFlow-App**  es una aplicación web full stack diseñada para ayudarte a gestionar tareas de manera práctica, organizada y eficiente. Permite a los usuarios registrar sus pendientes, clasificarlos por etiquetas, marcarlos como completados y mantener un flujo de trabajo claro y productivo.
+**Donde-Beto**  es una aplicación web full stack diseñada para la gestión eficiente de un punto frío (venta de bebidas, congelados y productos refrigerados). Centraliza el control de productos, inventario y operaciones diarias en una sola plataforma clara, rápida y fácil de usar.
 
-Este proyecto fue creado con un enfoque funcional y moderno, combinando tecnología, diseño y una estructura escalable que permite añadir funcionalidades colaborativas a futuro.
+Este proyecto nace desde la trinchera: resolver un problema real con tecnología bien aplicada. Tradición de negocio, visión de futuro.
 
 ## 🌐 Demo
 
-<a href="gestortask.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="puntofrio.vercel.app" target="_blank" rel="noopener noreferrer">
   👆 Mirar el Demo del proyecto
 </a>
 
 
 ## 🧩 Features
 
-- Interfaz responsiva y limpia para una experiencia fluida en cualquier dispositivo
-- Organización de tareas mediante etiquetas y filtros por estado
-- Autenticación de usuarios con JWT para acceso seguro
-- CRUD completo de tareas (crear, leer, actualizar, eliminar)
-- Arquitectura escalable para agregar funciones colaborativas
-- Panel de usuario intuitivo centrado en la productividad
+- 🧩 Features
+
+- 📦 Gestión completa de productos (CRUD)
+
+- 🧊 Control de inventario en tiempo real
+
+- 💰 Registro de precios y disponibilidad
+
+- 👤 Autenticación de usuarios con JWT
+
+- 📊 Panel administrativo simple e intuitivo
+
+- 📱 Interfaz responsiva (celular, tablet y desktop)
+
+- ⚙️ Arquitectura preparada para crecer (ventas, reportes, roles)
 - Desarrollado con **Astro**
-- Estilizado con **TailwindCSS**
+- Estilizado con **Svelte**
 
 ## 💡 Technologies used
 
-- Astro
-- TypeScript
-- PLpgSQL + PostgreSQL
-- TailwindCSS
+- Astro – rendimiento brutal y estructura moderna
+
+- TypeScript – código sólido, tipado y mantenible
+
+- PostgreSQL + PL/pgSQL – base de datos robusta y confiable
+
+- TailwindCSS – diseño limpio, rápido y consistente
+
 - JavaScript / HTML / CSS
-- JSON Web Tokens (JWT)
+
+- JSON Web Tokens (JWT) – autenticación segura
 
 
 ## 🎯 Objective
 
-El objetivo de TaskFlow-App es proporcionar una herramienta práctica para gestionar tareas diarias de forma simple y estructurada. Busca equilibrar diseño minimalista, velocidad y claridad, enfocándose en una arquitectura de componentes reutilizables y una experiencia de usuario ágil. Es ideal para mostrar habilidades tanto de frontend como de backend con TypeScript y bases de datos relacionales.
+El objetivo de Donde Beto es digitalizar y optimizar la gestión de un punto frío tradicional, reduciendo errores manuales y mejorando el control del negocio día a día.
+
+La aplicación busca:
+
+Simplificar procesos operativos
+
+Facilitar la toma de decisiones
+
+Mantener una experiencia de usuario clara y directa
+
+Servir como proyecto demostrativo de habilidades full stack
+
+Es un puente entre el negocio de siempre y la tecnología que viene.
+## 🚀 Roadmap (Próximas mejoras)
+- 🧾 Módulo de ventas diarias
+
+- 📈 Reportes de ingresos y productos más vendidos
+
+- 👥 Roles de usuario (admin / empleado)
+
+- 🧠 Alertas por bajo inventario
+
+- ☁️ Despliegue en producción
 
 
-
-
-🚀 *Malcom Jhosue Sandoval Curiel – Desarrollador Full Stack*
+🚀 *Malcom Jhosue Sandoval Curiel Desarrollador Full Stack Amante del código limpio, los sistemas útiles y los proyectos con propósito.*
