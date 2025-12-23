@@ -3,7 +3,7 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'Punto Frio Donde Beto'
 pubDate: 2025-09-05
 description: ''
-languages: ["astro", "tailwind", "cloudflare", "javascript","vercel","typescript"]
+languages: ["astro", "tailwind", "cloudflare", "javascript","netlify","typescript","mysql"]
 image:
   url: "/images/projects/image.png"
   alt: "Punto Frio"
