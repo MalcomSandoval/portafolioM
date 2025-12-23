@@ -1,225 +1,104 @@
+🚀 Portafolio – Malcom Jhosue Sandoval Curiel
 
-# NeonMint Template Documentation
+Bienvenido a mi portafolio.
+Aquí encontrarás proyectos reales, código funcional y soluciones pensadas para resolver problemas concretos. No construyo por construir: desarrollo sistemas útiles, claros y escalables.
 
-![neonmint](https://github.com/user-attachments/assets/ae539704-2292-492f-882c-c90595b34717)
+Soy Desarrollador Full Stack, con experiencia en frontend y backend, enfocado en buenas prácticas, arquitectura limpia y una experiencia de usuario sólida. Me muevo cómodo entre la lógica del servidor y el detalle del diseño.
 
+Tradición técnica, mentalidad moderna y visión a futuro.
 
-## 🎯 Overview
+🧠 Sobre mí
 
-**NeonMint** is a minimalist and modern template designed for developers and digital creatives. Its dark-toned aesthetic with mint green accents offers a clean, elegant, and functional visual experience, ideal for portfolios, dashboards, or tech landing pages.
+🎓 Tecnólogo en Análisis y Desarrollo de Software
 
-## 📁 Project Structure
+💻 Desarrollador Full Stack
 
-```bash
-└── 📁NeonMint
-    └── 📁public
-        ├── android-chrome-192x192.png
-        ├── android-chrome-512x512.png
-        ├── apple-touch-icon.png
-        ├── favicon-16x16.png
-        ├── favicon-32x32.png
-        ├── favicon.ico
-        └── 📁images
-            ├── 📁posts    # Post images
-            └── 📁projects # Project images
-        └── site.webmanifest # PWA configuration file
-    └── 📁src
-        ├── 📁components  # Reusable UI components
-        │   ├── 📁blog    # Blog components
-        │   ├── 📁layout  # Layout components
-        │   ├── 📁portfolio # Portfolio components
-        │   └── 📁ui      # UI components
-        ├── 📁icons       # Icons (.svg)
-        ├── 📁layouts     # Site layouts
-        │   ├── Layout.astro           # Main application layout
-        │   ├── MarkdownAbout.astro    # About-me page layout
-        │   ├── MarkdownPostLayout.astro # Posts page layout
-        │   └── ProjectLayout.astro    # Projects page layout
-        ├── 📁pages       # Site pages
-        │   ├── about-me.md            # About-me page
-        │   ├── 📁blog   # All posts page
-        │   │   ├── index.astro        # Blog home page
-        │   │   ├── 📁posts            # Blog posts
-        ├── │   ├── └── index.astro     # All posts page
-        │   │   ├── 📁tags             # Blog tags
-        │   │   └── 📁techs            # Blog technologies
-        │   ├── index.astro            # Home page
-        │   ├── 📁portfolio
-        │   │   └── 📁projects         # Portfolio projects
-        │   ├── robots.txt.ts          # robots.txt configuration
-        │   └── rss.xml.js             # RSS configuration
-        ├── 📁scripts
-        │   └── menu.js                # Menu script
-        ├── 📁styles
-        │   └── global.css             # Global styles
-        └── 📁utils
-            └── languages.ts           # Technology tools configuration
-    ├── .gitignore
-    ├── astro.config.mjs
-    ├── package-lock.json
-    ├── package.json
-    ├── README.md
-    └── tsconfig.json
-```
+⚙️ Enfoque en soluciones prácticas y mantenibles
 
-## 🛠️ Technology Stack
+🚀 Aprendiz constante, curioso por naturaleza
 
-- **Framework**: Astro v5.6.1
-- **UI Library**: Preact v10.26.2
-- **Styling**: TailwindCSS v4.0.8
-- **Icons**: astro-icon v1.1.5
-- **Syntax Highlighting**: PrismJS v1.30.0
-- **Animations**: tailwindcss-animated v2.0.0
-- **Analytics**: @vercel/speed-insights v1.2.0
+📈 Orientado a resultados y mejora continua
 
-## ✨ Key Features
+🧩 Tecnologías y Herramientas
+Frontend
 
-1. **🚀 Performance Optimized**
-   - Static site generation
-   - Partial hydration with Preact
-   - Optimized images and assets
+Astro
 
-2. **💻 Modern Development Experience**
-   - TypeScript support
-   - Hot module replacement
-   - ESLint integration
+HTML5 / CSS3 / JavaScript
 
-3. **🔍 SEO & Analytics**
-   - Built-in sitemap generation
-   - RSS feed support
-   - Vercel Speed Insights
+TypeScript
 
-4. **🎨 Styling & UI**
-   - TailwindCSS for utility-first styling
-   - Animated components
-   - Responsive design
-   - Dark mode support
+TailwindCSS
 
-## 🚀 Getting Started
+Backend
 
-1. **📦 Installation**
+Node.js
 
-   ### 🚀**Astro Installation**
-   ```bash
-   npm create astro@latest -- --template EFEELE/neonmint
-   ```
-   or
-   ### 🔧**Manual Installation**
-   
-   #### Clone Repository
-   ```bash
-   git clone https://github.com/EFEELE/NeonMint.git
-   ```
-   #### Install Dependencies
-   ```bash
-   npm install
-   ```
+PHP
 
-  
+PostgreSQL
 
-3. **⚡ Development**
-   ```bash
-   npm run dev
-   ```
+MySQL
 
-4. **🏗️ Build**
-   ```bash
-   npm run build
-   ```
+PL/pgSQL
 
-5. **👀 Preview**
-   ```bash
-   npm run preview
-   ```
+Otros
 
-## ⚙️ Configuration
+JSON Web Tokens (JWT)
 
-The project is configured through several key files:
+Git y GitHub
 
-- `astro.config.mjs`: Main Astro configuration
-- `tailwind.config.js`: TailwindCSS configuration
-- `tsconfig.json`: TypeScript configuration
+APIs REST
 
-## 🎨 Customization
+Arquitecturas CRUD
 
-### 📄 Adding New Pages
+Diseño responsivo
 
-Create new `.astro` files in the `src/pages` directory. The file name will determine the route.
+📂 Proyectos
+🧊 Donde Beto – Gestor de Punto Frío
 
-### 🔧 Adding New Languages or Technologies
+Aplicación web full stack para la gestión de productos e inventario de un punto frío.
 
-To incorporate a new programming language or technological tool into the site's capsules, follow these steps:
+Tecnologías: Astro, TypeScript, PostgreSQL, TailwindCSS
+Características: CRUD completo, autenticación JWT, panel administrativo, interfaz responsiva.
 
-1. **🖼️ Add the SVG icon**: Place the SVG file of the language or tool in the `src/icons` folder.
+✅ TaskFlow-App – Gestor de Tareas
 
-        > **💡 Recommendation**: For SVG icons, I recommend using [SVGL](https://svgl.app/), an excellent library of high-quality vectors that offers optimized icons for most popular languages and technologies.
+Aplicación web para la organización de tareas y mejora de la productividad personal.
 
-2. **📝 Register the language**: Open the `utils/languages.ts` file and add a new entry to the languages object following this format:
+Tecnologías: Astro, TypeScript, PostgreSQL
+Características: Autenticación de usuarios, etiquetas, filtros por estado, CRUD de tareas.
 
-   ```typescript
-   html: {
-       name: "HTML 5",
-       iconName: "html",
-   },
-   ```
+⚽ Sistema de Gestión de Club Deportivo
 
-   Where:
-   - `html`: Is the unique identifier for the language
-   - `name`: Is the name that will be displayed visibly in the interface
-   - `iconName`: Is the name of the SVG file without the extension (must match exactly with the file name in `src/icons`)
+Sistema para administrar equipos de fútbol, jugadores y enfrentamientos.
 
-Once these steps are completed, the new language or technology will be available for use in the site's capsules. You can select it when creating or editing projects or posts, and the corresponding icon will be displayed correctly in the interface.
+Tecnologías: PHP, MySQL, JavaScript
+Características: Gestión de equipos y jugadores, edición dinámica, control de datos.
 
-If you encounter any issues during this process, try restarting the development server. In some cases, changes to configuration files or static resources require a restart to be detected correctly.
+🎯 Principios de trabajo
 
-To verify that the new language has been added correctly, check the list of available technologies in the user interface after restarting the server.
+Código limpio antes que código complicado
 
----
+Primero funcional, luego estético
 
-### 🧷 Favicon Setup
+Bases sólidas para sistemas escalables
 
-To customize your site's favicon and web app icons, you can generate all the necessary variants using [favicon.io](https://favicon.io/favicon-converter/). Upload your logo or icon, and the tool will create a full set of optimized files for various devices and platforms.
+La tecnología debe servir al usuario y al negocio
 
-Place the generated files in the `📂 public` directory as follows:
+Aprender, mejorar y repetir
 
-```bash
-📂 public
-├── 📄 android-chrome-192x192.png
-├── 📄 android-chrome-512x512.png
-├── 📄 apple-touch-icon.png
-├── 📄 favicon-16x16.png
-├── 📄 favicon-32x32.png
-├── 📄 favicon.ico
-└── 📄 site.webmanifest
-```
+📬 Contacto
 
-> 💡 Don’t forget to update the contents of `site.webmanifest` to match your app’s name, description, and theme color for a complete PWA experience.
+📧 Email: tu-correo-aquí
 
----
+💼 LinkedIn: tu-linkedin-aquí
 
-### 🎨 Styling
+🌐 Portafolio web: si-aplica
 
-- Use TailwindCSS classes for styling
-- Add custom styles in `src/styles/global.css`
+🏁 Nota final
 
-### 🧩 Components
+Este portafolio refleja mi proceso, mi crecimiento y mi forma de trabajar.
+Sigo construyendo, aprendiendo y mejorando cada día.
 
-- Create reusable components in `src/components`
-- Import icons using `astro-icon`
-
-## 🚀 Deployment
-
-The site is configured for deployment on Vercel, but can be deployed to any static hosting service.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+Gracias por pasar por aquí.
